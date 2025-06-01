@@ -44,11 +44,6 @@ public class QuickSort {
             }
 
             // Swap elements if start <= end
-//            if (start <= end) {
-//                swap(arr, start, end);
-//                start++;
-//                end--;
-//            }
             if (start <= end) {
                 int temp = arr[start];
                 arr[start] = arr[end];
@@ -62,14 +57,5 @@ public class QuickSort {
         quickSort(arr, low, end);
         quickSort(arr, start, high);
     }
-
-    /*
-     * Helper method to swap two elements in the array.
-     */
-//    static void swap(int[] arr, int i, int j) {
-//        int temp = arr[i];
-//        arr[i] = arr[j];
-//        arr[j] = temp;
-//    }
 }
 
