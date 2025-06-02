@@ -59,3 +59,5 @@ public class QuickSort {
     }
 }
 
+// OUTPUT :
+// Sorted Array using QuickSort: [3, 5, 10, 20, 35, 54, 70]
