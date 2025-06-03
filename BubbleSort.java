@@ -7,16 +7,10 @@ public class BubbleSort {
 
         System.out.print("Original List: ");
         System.out.println(Arrays.toString(numbers));
-//        for (int i = 0; i < numbers.length; i++) {
-//            System.out.print(numbers[i] + " ");
-//        }
 
         bubbleSort(numbers);
 
         System.out.print("Sorted List: ");
-//        for (int i = 0; i < numbers.length; i++) {
-//            System.out.print(numbers[i] + " ");
-//        }
         System.out.println(Arrays.toString(numbers));
     }
 
@@ -40,3 +34,6 @@ public class BubbleSort {
     }
 }
 
+// OUTPUT:
+// Original List: [64, 34, 25, 12, 22, 11, 70]
+// Sorted List: [11, 12, 22, 25, 34, 64, 70]
