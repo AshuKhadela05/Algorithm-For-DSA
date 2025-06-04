@@ -50,3 +50,7 @@ public class BinarySearch {
         return -1;
     }
 }
+
+// OUTPUT:
+// Sorted List:
+// Element 11 found at index 0
