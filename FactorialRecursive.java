@@ -38,3 +38,8 @@ public class FactorialRecursive {
             return n * factorial(n - 1);
     }
 }
+
+// OUTPUT:
+// Enter a number to calculate its factorial:
+// 5
+// Factorial of 5 is: 120
