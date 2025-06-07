@@ -42,3 +42,7 @@ class Solution13 {
         return nextNum;  // Return the nth Fibonacci number
     }
 }
+
+// OUTPUT:
+// Enter a number n to find nth Fibonacci number: 9
+// Fibonacci number at position 9 is: 34
