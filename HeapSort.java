@@ -72,3 +72,9 @@ public class HeapSort {
         sorter.printArray(arr);
     }
 }
+
+// OUTPUT:
+// Original Array :
+// 12 11 13 5 6 7 
+// Sorted Array : 
+// 5 6 7 11 12 13
