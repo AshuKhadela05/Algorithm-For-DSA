@@ -7,7 +7,7 @@ public class BinarySearch {
 
         // Element to be searched
         int target = 11;
-
+        
         // Display the sorted array
         System.out.println("Sorted List: ");
         System.out.println(Arrays.toString(numbers));
