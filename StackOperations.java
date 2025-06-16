@@ -72,3 +72,75 @@ public class StackOperations {
         }
     }
 }
+
+// OUTPUT:
+// Perform operations on the stack:
+// 1. Push the element
+// 2. Pop the element
+// 3. Show
+// 4. End
+// Enter the choice: 
+// 1
+// Enter the element to be added onto the stack: 
+// 10
+
+// Perform operations on the stack:
+// 1. Push the element
+// 2. Pop the element
+// 3. Show
+// 4. End
+// Enter the choice: 
+// 1
+// Enter the element to be added onto the stack: 
+// 20
+
+// Perform operations on the stack:
+// 1. Push the element
+// 2. Pop the element
+// 3. Show
+// 4. End
+// Enter the choice: 
+// 1
+// Enter the element to be added onto the stack: 
+// 30
+
+// Perform operations on the stack:
+// 1. Push the element
+// 2. Pop the element
+// 3. Show
+// 4. End
+// Enter the choice: 
+// 3
+// Elements present in the stack: 
+// 30
+// 20
+// 10
+
+// Perform operations on the stack:
+// 1. Push the element
+// 2. Pop the element
+// 3. Show
+// 4. End
+// Enter the choice: 
+// 2
+// Popped element: 30
+
+// Perform operations on the stack:
+// 1. Push the element
+// 2. Pop the element
+// 3. Show
+// 4. End
+// Enter the choice: 
+// 3
+// Elements present in the stack: 
+// 20
+// 10
+
+// Perform operations on the stack:
+// 1. Push the element
+// 2. Pop the element
+// 3. Show
+// 4. End
+// Enter the choice: 
+// 4
+// Exiting...
