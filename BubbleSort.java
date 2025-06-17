@@ -30,7 +30,7 @@ public class BubbleSort {
                     arr[j + 1] = temp;
                 }
             }
-        }
+        }  
     }
 }
 
