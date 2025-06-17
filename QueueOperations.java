@@ -103,62 +103,62 @@ public class QueueOperations {
 }
 
 // OUTPUT:
-//1. Enqueue Operation
-//2. Dequeue Operation
-//3. Display the queue
-//4. Exit
-//Enter your choice of operations:
-//        1
-//Element to be inserted in the Queue:
-//        10
-//        1. Enqueue Operation
-//2. Dequeue Operation
-//3. Display the queue
-//4. Exit
-//Enter your choice of operations:
-//        1
-//Element to be inserted in the Queue:
-//        20
-//        1. Enqueue Operation
-//2. Dequeue Operation
-//3. Display the queue
-//4. Exit
-//Enter your choice of operations:
-//        1
-//Element to be inserted in the Queue:
-//        30
-//        1. Enqueue Operation
-//2. Dequeue Operation
-//3. Display the queue
-//4. Exit
-//Enter your choice of operations:
-//        3
-//Queue:
-//        10
-//        20
-//        30
-//
-//        1. Enqueue Operation
-//2. Dequeue Operation
-//3. Display the queue
-//4. Exit
-//Enter your choice of operations:
-//        2
-//Element deleted from the Queue: 10
-//        1. Enqueue Operation
-//2. Dequeue Operation
-//3. Display the queue
-//4. Exit
-//Enter your choice of operations:
-//        3
-//Queue:
-//        20
-//        30
-//
-//        1. Enqueue Operation
-//2. Dequeue Operation
-//3. Display the queue
-//4. Exit
-//Enter your choice of operations:
-//4
-//Exiting...
+// 1. Enqueue Operation
+// 2. Dequeue Operation
+// 3. Display the queue
+// 4. Exit
+// Enter your choice of operations: 
+// 1
+// Element to be inserted in the Queue: 
+// 10
+// 1. Enqueue Operation
+// 2. Dequeue Operation
+// 3. Display the queue
+// 4. Exit
+// Enter your choice of operations: 
+// 1
+// Element to be inserted in the Queue: 
+// 20
+// 1. Enqueue Operation
+// 2. Dequeue Operation
+// 3. Display the queue
+// 4. Exit
+// Enter your choice of operations: 
+// 1
+// Element to be inserted in the Queue: 
+// 30
+// 1. Enqueue Operation
+// 2. Dequeue Operation
+// 3. Display the queue
+// 4. Exit
+// Enter your choice of operations: 
+// 3
+// Queue: 
+// 10 
+// 20 
+// 30 
+
+// 1. Enqueue Operation
+// 2. Dequeue Operation
+// 3. Display the queue
+// 4. Exit
+// Enter your choice of operations: 
+// 2
+// Element deleted from the Queue: 10
+// 1. Enqueue Operation
+// 2. Dequeue Operation
+// 3. Display the queue
+// 4. Exit
+// Enter your choice of operations: 
+// 3
+// Queue: 
+// 20 
+// 30 
+
+// 1. Enqueue Operation
+// 2. Dequeue Operation
+// 3. Display the queue
+// 4. Exit
+// Enter your choice of operations: 
+// 4
+// Exiting...
