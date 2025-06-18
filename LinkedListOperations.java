@@ -144,58 +144,58 @@ public class LinkedListOperations {
     }
 }
 
-//Menu:
-//        1. Insert at the beginning
-//2. Insert at the end
-//3. Insert at a specific position
-//4. Display the list
-//5. Exit
-//Enter your choice: 1
-//Enter the value to insert at the beginning: 5
+// Menu:
+// 1. Insert at the beginning
+// 2. Insert at the end
+// 3. Insert at a specific position
+// 4. Display the list
+// 5. Exit
+// Enter your choice: 1
+// Enter the value to insert at the beginning: 5
 //
-//Menu:
-//        1. Insert at the beginning
-//2. Insert at the end
-//3. Insert at a specific position
-//4. Display the list
-//5. Exit
-//Enter your choice: 2
-//Enter the value to insert at the end: 20
+// Menu:
+// 1. Insert at the beginning
+// 2. Insert at the end
+// 3. Insert at a specific position
+// 4. Display the list
+// 5. Exit
+// Enter your choice: 2
+// Enter the value to insert at the end: 20
 //
-//Menu:
-//        1. Insert at the beginning
-//2. Insert at the end
-//3. Insert at a specific position
-//4. Display the list
-//5. Exit
-//Enter your choice: 3
-//Enter the value to insert: 10
-//Enter the position: 3
+// Menu:
+// 1. Insert at the beginning
+// 2. Insert at the end
+// 3. Insert at a specific position
+// 4. Display the list
+// 5. Exit
+// Enter your choice: 3
+// Enter the value to insert: 10
+// Enter the position: 3
 //
-//Menu:
-//        1. Insert at the beginning
-//2. Insert at the end
-//3. Insert at a specific position
-//4. Display the list
-//5. Exit
-//Enter your choice: 3
-//Enter the value to insert: 15
-//Enter the position: 2
+// Menu:
+// 1. Insert at the beginning
+// 2. Insert at the end
+// 3. Insert at a specific position
+// 4. Display the list
+// 5. Exit
+// Enter your choice: 3
+// Enter the value to insert: 15
+// Enter the position: 2
 //
-//Menu:
-//        1. Insert at the beginning
-//2. Insert at the end
-//3. Insert at a specific position
-//4. Display the list
-//5. Exit
-//Enter your choice: 4
-//Linked List: 5 -> 15 -> 20 -> 10 -> NULL
+// Menu:
+// 1. Insert at the beginning
+// 2. Insert at the end
+// 3. Insert at a specific position
+// 4. Display the list
+// 5. Exit
+// Enter your choice: 4
+// Linked List: 5 -> 15 -> 20 -> 10 -> NULL
 //
-//Menu:
-//        1. Insert at the beginning
-//2. Insert at the end
-//3. Insert at a specific position
-//4. Display the list
-//5. Exit
-//Enter your choice: 5
-//Exiting program.
+// Menu:
+// 1. Insert at the beginning
+// 2. Insert at the end
+// 3. Insert at a specific position
+// 4. Display the list
+// 5. Exit
+// Enter your choice: 5
+// Exiting program.
