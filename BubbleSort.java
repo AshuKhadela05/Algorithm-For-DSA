@@ -16,6 +16,7 @@ public class BubbleSort {
 
     // Method to perform bubble sort
     static void bubbleSort(int[] arr) {
+        
         int n = arr.length;
 
         // Traverse through all elements in the array
@@ -31,6 +32,7 @@ public class BubbleSort {
                 }
             }
         }  
+
     }
 }
 
