@@ -74,12 +74,6 @@ public class LinkedListOperations {
         head = newNode; // Update head to new node
     }
 
-    public static void insertAtBeginning(int value) {
-        Node newNode = new Node(value);
-        newNode.next = head;
-        head = newNode;   
-    }
-
     // Insert node at the end of the list
     public static void insertAtEnd(int value) {
         Node newNode = new Node(value);
