@@ -85,7 +85,7 @@ public class QueueOperations {
             }
         }
     }
-
+    
     // Function to display elements in the queue
     public static void show() {
         // Check if queue is empty
