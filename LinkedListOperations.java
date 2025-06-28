@@ -93,7 +93,7 @@ public class LinkedListOperations {
 
         temp.next = newNode; // Add new node at the end
     }
-    
+
     // Insert node at a specific position (1-based index)
     public static void insertAtPosition(int value, int position) {
         Node newNode = new Node(value);
