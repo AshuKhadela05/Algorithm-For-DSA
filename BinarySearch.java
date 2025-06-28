@@ -24,7 +24,7 @@ public class BinarySearch {
             System.out.println("Element " + target + " not found in the list");
         }
     }
-    
+
     // Method to perform binary search on a sorted array
     static int binarySearch(int[] arr, int target) {
         int low = 0;                 // Starting index of the search range
