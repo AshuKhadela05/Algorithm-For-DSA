@@ -29,7 +29,7 @@ public class InsertionSort {
                 arr[j + 1] = arr[j];  // Shift element to the right
                 j = j - 1;            // Move to the previous element
             }
-
+            
             // Place the key in its correct sorted position
             arr[j + 1] = key;
         }
