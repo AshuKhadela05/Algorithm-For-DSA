@@ -23,7 +23,7 @@ public class QueueOperations {
             System.out.println("4. Exit");
             System.out.println("Enter your choice of operations: ");
             choice = scanner.nextInt();  // Read user choice
-
+            
             // Perform operation based on user choice
             switch (choice) {
                 case 1:
