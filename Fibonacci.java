@@ -23,11 +23,15 @@ public class Fibonacci {
 class Solution13 {
     public int fib(int n) {
         // Base case: F(0) = 0
-        if (n == 0) return 0;
-
+        if (n == 0) {
+            return 0;
+        }
+        
         // Base case: F(1) = 1
-        if (n == 1) return 1;
-
+        if (n == 1) {
+            return 1;
+        }
+        
         int firstNum = 0;   // Represents F(n-2)
         int secondNum = 1;  // Represents F(n-1)
         int nextNum = 0;    // Will store F(n)
