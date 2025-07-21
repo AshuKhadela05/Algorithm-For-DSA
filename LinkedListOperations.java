@@ -73,8 +73,6 @@ public class LinkedListOperations {
         newNode.next = head;
         head = newNode; // Update head to new node
     }
-
-
     
     // Insert node at the end of the list
     public static void insertAtEnd(int value) {
@@ -95,7 +93,7 @@ public class LinkedListOperations {
 
         temp.next = newNode; // Add new node at the end
     }
-        
+    
     // Insert node at a specific position (1-based index)
     public static void insertAtPosition(int value, int position) {
         Node newNode = new Node(value);
