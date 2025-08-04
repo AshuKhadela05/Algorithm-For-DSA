@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Node {
     int data;
     Node next;
-
+    
     // Constructor to create a new node
     Node(int value) {
         data = value;
@@ -199,6 +199,7 @@ public class LinkedListOperations {
 // 5. Exit
 // Enter your choice: 5
 // Exiting program.
+
 
 
 
