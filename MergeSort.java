@@ -37,7 +37,7 @@ public class MergeSort {
         int i = 0; // pointer for first array
         int j = 0; // pointer for second array
         int k = 0; // pointer for mix array
- 
+
         // Compare elements from both arrays and merge
         while (i < first.length && j < second.length) {
             if (first[i] < second[j]) {
@@ -70,5 +70,6 @@ public class MergeSort {
 
 // OUTPUT: 
 // Sorted Array using MergeSort: [3, 5, 10, 23, 43, 50]
+
 
 
