@@ -73,6 +73,7 @@ public class LinkedListOperations {
         newNode.next = head;
         head = newNode; // Update head to new node
     }
+
     
     // Insert node at the end of the list
     public static void insertAtEnd(int value) {
@@ -199,6 +200,7 @@ public class LinkedListOperations {
 // 5. Exit
 // Enter your choice: 5
 // Exiting program.
+
 
 
 
