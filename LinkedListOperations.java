@@ -66,7 +66,7 @@ public class LinkedListOperations {
             }
         }
     }
-
+    
     // Insert node at the beginning of the list
     public static void insertAtBeginning(int value) {
         Node newNode = new Node(value);
@@ -199,6 +199,7 @@ public class LinkedListOperations {
 // 5. Exit
 // Enter your choice: 5
 // Exiting program.
+
 
 
 
