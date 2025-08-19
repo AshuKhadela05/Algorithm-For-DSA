@@ -16,7 +16,7 @@ public class BubbleSort {
 
     // Method to perform bubble sort
     static void bubbleSort(int[] arr) {
-
+        
         int n = arr.length;
         
         // Traverse through all elements in the array
@@ -38,5 +38,6 @@ public class BubbleSort {
 // OUTPUT:
 // Original List: [64, 34, 25, 12, 22, 11, 70]
 // Sorted List: [11, 12, 22, 25, 34, 64, 70]
+
 
 
