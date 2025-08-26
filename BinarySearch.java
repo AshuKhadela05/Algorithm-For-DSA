@@ -25,7 +25,7 @@ public class BinarySearch {
 
     // Method to perform binary search on a sorted array
     static int binarySearch(int[] arr, int target) {
-    
+
         int low = 0;                 // Starting index of the search range
         int high = arr.length - 1;   // Ending index of the search range
         
@@ -55,3 +55,4 @@ public class BinarySearch {
 // OUTPUT:
 // Sorted List:
 // Element 11 found at index 0
+
