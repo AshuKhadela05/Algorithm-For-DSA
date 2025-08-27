@@ -46,14 +46,15 @@ public class BinarySearch {
                 high = mid - 1;
             }
         }
-
         // If element not found, return -1
         return -1;
     }
 }
 
+
 // OUTPUT:
 // Sorted List:
 // Element 11 found at index 0
+
 
 
