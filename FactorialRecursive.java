@@ -27,7 +27,7 @@ public class FactorialRecursive {
         }
         scanner.close();
     }
-
+    
     // Recursive method to calculate factorial
     public static int factorial(int n) {
         // Base case: factorial of 0 or 1 is 1
@@ -43,3 +43,4 @@ public class FactorialRecursive {
 // Enter a number to calculate its factorial:
 // 5
 // Factorial of 5 is: 120
+
