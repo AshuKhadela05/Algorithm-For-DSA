@@ -59,7 +59,7 @@ public class StackOperations {
         }
     }
     
-    public static  void show() {
+    public static void show() {
         if (top == -1) {
             System.out.println("UnderFlow!!");
         } else {
@@ -70,6 +70,7 @@ public class StackOperations {
         }
     }
 }
+
 
 // OUTPUT:
 // Perform operations on the stack:
@@ -142,6 +143,7 @@ public class StackOperations {
 // Enter the choice: 
 // 4
 // Exiting...
+
 
 
 
