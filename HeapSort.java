@@ -37,7 +37,7 @@ public class HeapSort {
         if (right < n && arr[right] > arr[largest]) {
             largest = right;
         }
-
+        
         // If root is not the largest
         if (largest != i) {
             int temp = arr[i];
@@ -78,4 +78,5 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
