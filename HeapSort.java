@@ -15,7 +15,7 @@ public class HeapSort {
             int temp = arr[0];
             arr[0] = arr[i];
             arr[i] = temp;
-
+           
             // Heapify the reduced heap
             heapify(arr, i, 0);
         }
@@ -27,7 +27,7 @@ public class HeapSort {
         int largest = i;  // root
         int left = 2 * i + 1;  // left child
         int right = 2 * i + 2;  // right child
-
+  
         // Check if left child is larger
         if (left < n && arr[left] > arr[largest]) {
             largest = left;
@@ -43,7 +43,7 @@ public class HeapSort {
             int temp = arr[i];
             arr[i] = arr[largest];
             arr[largest] = temp;
-            
+
             // Recursively heapify the affected subtree
             heapify(arr, n, largest);
         }
@@ -78,5 +78,6 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
 
