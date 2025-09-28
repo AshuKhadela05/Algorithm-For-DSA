@@ -47,7 +47,7 @@ public class HeapSort {
             // Recursively heapify the affected subtree
             heapify(arr, n, largest);
         }
-    }
+    }    
 
     // Method to print the array using traditional loop
     void printArray(int[] arr) {
@@ -78,6 +78,7 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
 
 
