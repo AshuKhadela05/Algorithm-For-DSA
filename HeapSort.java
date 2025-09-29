@@ -27,7 +27,7 @@ public class HeapSort {
         int largest = i;  // root
         int left = 2 * i + 1;  // left child
         int right = 2 * i + 2;  // right child
-  
+ 
         // Check if left child is larger
         if (left < n && arr[left] > arr[largest]) {
             largest = left;
@@ -78,6 +78,7 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
 
 
