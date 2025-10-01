@@ -20,13 +20,14 @@ public class HeapSort {
             heapify(arr, i, 0);
         }
     }
-
+    
     // Method to heapify a subtree rooted at index i
     void heapify(int[] arr, int n, int i) {
 
         int largest = i;  // root
         int left = 2 * i + 1;  // left child
         int right = 2 * i + 2;  // right child
+
         
         // Check if left child is larger
         if (left < n && arr[left] > arr[largest]) {
@@ -37,7 +38,7 @@ public class HeapSort {
         if (right < n && arr[right] > arr[largest]) {
             largest = right;
         }
-        
+
         // If root is not the largest
         if (largest != i) {
             int temp = arr[i];
@@ -56,7 +57,7 @@ public class HeapSort {
         }
         System.out.println();
     }
-
+    
     // Main Method
     public static void main(String[] args) {
 
@@ -78,6 +79,7 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
 
 
