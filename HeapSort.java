@@ -45,7 +45,7 @@ public class HeapSort {
             arr[largest] = temp;
 
             // Recursively heapify the affected subtree
-            heapify(arr, n, largest);
+            heapify(arr, n, largest);ta
         }
     }    
 
@@ -78,6 +78,7 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
 
 
