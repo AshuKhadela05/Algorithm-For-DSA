@@ -31,8 +31,8 @@ public class BinarySearch {
         
         // Continue searching while the range is valid
         while (low <= high) {
-            int mid = (low + high) / 2;  // Find the middle index
-            // int mid = low + (high - low) / 2;
+            // int mid = (low + high) / 2;  // Find the middle index
+            int mid = low + (high - low) / 2;
 
             // If the middle element is the target, return its index
             if (arr[mid] == target) {
@@ -56,6 +56,7 @@ public class BinarySearch {
 // OUTPUT:
 // Sorted List:
 // Element 11 found at index 0
+
 
 
 
