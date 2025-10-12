@@ -20,7 +20,7 @@ public class HeapSort {
             heapify(arr, i, 0);
         }
     }
-    
+
     // Method to heapify a subtree rooted at index i
     void heapify(int[] arr, int n, int i) {
 
@@ -78,6 +78,7 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
 
 
