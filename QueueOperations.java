@@ -65,7 +65,7 @@ public class QueueOperations {
             queue[rear] = item;
         }
     }
-    
+
     // Function to delete element from the queue
     public static void dequeue() {
         // Check if queue is empty
@@ -162,3 +162,4 @@ public class QueueOperations {
 // Enter your choice of operations: 
 // 4
 // Exiting...
+
