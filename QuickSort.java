@@ -31,7 +31,7 @@ public class QuickSort {
         int end = high;
         int mid = start + (end - start) / 2;
         int pivot = arr[mid];  // Choosing middle element as pivot
-
+        
         // Partitioning process
         while (start <= end) {
             // Move the start pointer to the right as long as elements are less than pivot
@@ -61,3 +61,4 @@ public class QuickSort {
 
 // OUTPUT :
 // Sorted Array using QuickSort: [3, 5, 10, 20, 35, 54, 70]
+
