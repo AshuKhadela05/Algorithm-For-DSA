@@ -4,7 +4,7 @@ public class QuickSort {
 
     public static void main(String[] args) {
         int[] arr = {20, 10, 5, 35, 3, 70, 54};
-
+        
         // Calling custom QuickSort method
         quickSort(arr, 0, arr.length - 1);
 
@@ -25,7 +25,7 @@ public class QuickSort {
         if (low >= high) {
             return;
         }
-
+        
         // Partition the array and get the pivot index
         int start = low;
         int end = high;
@@ -61,4 +61,5 @@ public class QuickSort {
 
 // OUTPUT :
 // Sorted Array using QuickSort: [3, 5, 10, 20, 35, 54, 70]
+
 
