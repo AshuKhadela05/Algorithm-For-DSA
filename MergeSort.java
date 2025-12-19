@@ -49,7 +49,7 @@ public class MergeSort {
             }
             k++;
         }
-        
+
         // Copy any remaining elements from the first array
         while (i < first.length) {
             mix[k] = first[i];
@@ -70,6 +70,7 @@ public class MergeSort {
 
 // OUTPUT: 
 // Sorted Array using MergeSort: [3, 5, 10, 23, 43, 50]
+
 
 
 
