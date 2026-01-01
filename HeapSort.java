@@ -32,7 +32,7 @@ public class HeapSort {
         if (left < n && arr[left] > arr[largest]) {
             largest = left;
         }
-
+    
         // Check if right child is larger
         if (right < n && arr[right] > arr[largest]) {
             largest = right;
@@ -78,6 +78,7 @@ public class HeapSort {
 // 12 11 13 5 6 7 
 // Sorted Array : 
 // 5 6 7 11 12 13
+
 
 
 
